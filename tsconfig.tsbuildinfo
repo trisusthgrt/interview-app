@@ -1,0 +1,1 @@
+{"root":["./app.tsx","./constants.ts","./eslint.config.js","./index.tsx","./types.ts","./vite.config.ts","./components/intervieweechat.tsx","./components/interviewerdashboard.tsx","./components/welcomebackmodal.tsx","./components/icons.tsx","./services/geminiservice.ts"],"version":"5.8.3"}
